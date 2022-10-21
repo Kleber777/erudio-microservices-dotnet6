@@ -1,11 +1,3 @@
-C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\appsettings.Development.json
-C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\appsettings.json
-C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.staticwebassets.runtime.json
-C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.exe
-C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.deps.json
-C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.runtimeconfig.json
-C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.dll
-C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.pdb
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.csproj.AssemblyReference.cache
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.AssemblyInfoInputs.cache
@@ -14,6 +6,14 @@ C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\obj\D
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.RazorAssemblyInfo.cache
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.RazorAssemblyInfo.cs
+C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\appsettings.json
+C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.staticwebassets.runtime.json
+C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.exe
+C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.deps.json
+C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.runtimeconfig.json
+C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.dll
+C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.pdb
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\obj\Debug\net6.0\staticwebassets.build.json
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\obj\Debug\net6.0\staticwebassets.development.json
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
