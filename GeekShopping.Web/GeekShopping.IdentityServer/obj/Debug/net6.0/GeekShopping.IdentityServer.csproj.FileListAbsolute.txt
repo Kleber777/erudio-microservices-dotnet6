@@ -1,5 +1,6 @@
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.Development.json
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.json
+C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-D66DED6A583DD62B153BB628E1353B5C.json
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.staticwebassets.runtime.json
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.exe
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.deps.json
