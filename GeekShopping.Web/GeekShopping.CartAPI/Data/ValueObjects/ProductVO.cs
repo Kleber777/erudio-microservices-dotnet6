@@ -1,12 +1,12 @@
-﻿namespace GeekShopping.Web.Models
+﻿namespace GeekShopping.CartAPI.Data.ValueObjects
 {
-    public class ProductModel
+    public class ProductVO
     {
-        public long Id { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
         public string Describe { get; set; }
         public string CategoryName { get; set; }
-         public string ImageUrl { get; set; }
+        public string ImageUrl { get; set; }
     }
 }
