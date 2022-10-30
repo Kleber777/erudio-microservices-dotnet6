@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vS+tKhpWG0giBzYL4qdjkjcbFF7D+0z43bSBS9tzrxk=",
+  "Hash": "qeKhvuk9oOaBIGh7ZF8Di7847woRcPWIVygn2l66rr4=",
   "Source": "GeekShopping.Web",
   "BasePath": "_content/GeekShopping.Web",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\geek_shopping.png"
+    },
+    {
+      "Identity": "C:\\Projects\\erudio-microservices-dotnet6\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\images\\order.png",
+      "SourceId": "GeekShopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\erudio-microservices-dotnet6\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShopping.Web",
+      "RelativePath": "images/order.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\order.png"
     },
     {
       "Identity": "C:\\Projects\\erudio-microservices-dotnet6\\GeekShopping.Web\\GeekShopping.Web\\wwwroot\\js\\site.js",

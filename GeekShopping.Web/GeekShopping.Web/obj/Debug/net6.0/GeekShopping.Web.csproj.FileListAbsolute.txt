@@ -1,4 +1,3 @@
-C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\appsettings.Development.json
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\appsettings.json
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\GeekShopping.Web.staticwebassets.runtime.json
@@ -300,6 +299,7 @@ C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\D
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Projects\erudio-microservices-dotnet6\GeekShopping.Web\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
